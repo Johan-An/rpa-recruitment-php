@@ -1,0 +1,7 @@
+1.what is missing in the test, in other words, what should be covered in the test
+
+答：还应该对变量（包括变量的类型、取值范围）、返回的结果（是否符合期望）进行测试
+
+2.how your class and tests can be improved
+
+答：1.把类和类中的方法拆分更细的粒度级，使类或方法的功能单一化，并合理使用设计模式以达到解耦的目的，使之更加利于单元测试
